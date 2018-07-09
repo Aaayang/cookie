@@ -1,0 +1,24 @@
+{
+  "name": "cookie",
+  "version": "1.0.0",
+  "description": "## 什么是 Cookie",
+  "main": "01_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aaayang/cookie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aaayang/cookie/issues"
+  },
+  "homepage": "https://github.com/Aaayang/cookie#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3"
+  }
+}
